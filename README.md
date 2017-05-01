@@ -17,3 +17,14 @@ A cool conky theme.
 
 ![cool-conky](http://github.marconijr.com/cool-conky/screenshot.png)
 
+### Usage
+
+1. Make sure you have conky with lua and nvidia support, on Arch just do:
+
+```
+$ yaourt -S conky-lua-nv
+```
+
+2. Then you can either rename and put `conky.conf` to `~/.conkyrc` or to
+   `~/.config/conky/conky.conf`
+
