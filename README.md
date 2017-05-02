@@ -12,10 +12,11 @@ A cool conky theme.
 - Disk (usage, read/write)
 - Ethernet (local IP, up/down speed)
 - Processes (top 5, usage)
+- Calendar
 
 ### Screenshot
 
-![cool-conky](http://github.marconijr.com/cool-conky/screenshot.png)
+![cool-conky](http://github.marconijr.com/cool-conky/screenshot.png?v=1)
 
 ### Usage
 
